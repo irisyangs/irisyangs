@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Iris Yang, a senior at Tufts University studying computer science. I'm currently exploring technologies from frontend, backend, to ML/data science/AI, robotics, and the cloud, and I find myself fascinated each day by what can be built and made tangible by combining any of these fields. I hope to document my journey in the projects I make and display on here! 
+I'm Iris Yang, a senior at Tufts University studying computer science. I'm currently exploring technologies from frontend, backend, to ML/data science/AI, robotics, and the cloud, and I find myself fascinated each day by what can be built by combining any of these fields. I aim to leverage my toolbelt of skills to contribute to a project with a tangible impact. Join me as I document my journey in the projects I make and display on here! 
 
-Outside of CS-ing, I love kung fu, running, exploring new cafes and restaurants with friends, and music. 
+Outside of CS-ing, I love kung fu, running, exploring new cafes and restaurants with friends, and music 🎶. 
+
+* I'm currently working on my personal website!
+* I currently do research at Tufts' [MuLIP](https://mulip.cs.tufts.edu/) lab, studying how agents can be taught to play games using a combination of Deep-Q algorithms and human-in-the-loop reinforcement learning.
+* Previously, I was a software development intern at S&P Global, building a RAG pipeline for a chatbot and making good use of AWS' services.
+* To ask about my work, please reach out to me at iris.yang@tufts.edu. I'm happy to chat :)
+
+
