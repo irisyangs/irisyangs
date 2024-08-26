@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! 👋
 
 <!--
 **irisyangs/irisyangs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Iris Yang, a senior at Tufts University studying computer science. I'm currently exploring technologies from frontend, backend, to ML/data science/AI, robotics, and the cloud, and I find myself fascinated each day by what can be built and made tangible by combining any of these fields. I hope to document my journey in the projects I make and display on here! 
+
+Outside of CS-ing, I love kung fu, running, exploring new cafes and restaurants with friends, and music. 
